@@ -1,10 +1,7 @@
 ﻿HWE-ÜbungenOtto Cibulka, Niko Leimegger4CHEL 2022/23
 
 Mini-Powerbank    k           Otto Cibulka/5, Niko Leimegger/11
-
-![Ein Bild, das Kuchen enthält.
-
-Automatisch generierte Beschreibung](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.001.png)![HTL Rankweil - Technik\_begeistert](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.002.png)
+(Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.002.png)
 # Inhalt
 [Aufgabenstellung:	3](#_Toc120043920)
 
@@ -55,8 +52,6 @@ Automatisch generierte Beschreibung](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f
 Ziel des Projektes war es, eine Schaltung für eine Lade und Entlade-station für einzelne Li-Ion Zellen zu designen. Um das Umzusetzen, mussten wir ICs suchen, die Schaltung aufbauen, die Platine routen, bestellen und bestücken und zuletzt die Schaltung messen und in ein selbstgemachtes Gehäuse einzubauen. Das Ziel ist es eine Li-Ionen Zelle geregelt zu laden. Dabei sollte sie sich nicht tiefenentladen und nicht überladen. Außerdem sollte sie gegen Kurzschluss und Überspannung gesichert sein. Am ausgang sollten wir nach zu 5V und 3,3V haben.
 
 
-
-## ![Ein Bild, das Text, Feuerzeug, Container enthält.
 
 Automatisch generierte Beschreibung](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.003.png)Lithium-Ionen:
 Da eine Lithium-Ionen-Zelle der hauptkerne unseres Projekts ist werden wir hier kurz die Grundinformationen zusammenfassen.
@@ -128,7 +123,6 @@ Da unsere Schaltung Hauptsächlich aus ICs besteht, können wir schwer etwas Sim
 *Abbildung 5: Bauteile auf Papier*
 ![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.015.png)![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.016.png)Die Platinen sind angekommen und wir haben angefangen zu bestücken
 
-![Ein Bild, das Person enthält.
 
 Automatisch generierte Beschreibung](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.017.png)
 
@@ -150,7 +144,6 @@ Wir hatten im Laufe unseres Projektes mehrere (vor allem schlampigkeits-) Fehler
 
 [Pink] Ein weiterer Fehler war, dass das Package, welches wir im Schaltplan für den Mini-USB Stecker verwendet haben, nicht zur Verfügung stand.
 
-![Ein Bild, das Elektronik, Schaltkreis enthält.
 
 Automatisch generierte Beschreibung](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.019.png)Lösung: Mini-USB-B Stecker verwenden und nicht gewollte Pins entfernen um mehr Platz für VCC und GND-Pin 
 
