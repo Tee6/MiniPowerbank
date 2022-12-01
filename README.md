@@ -76,9 +76,9 @@ In der Schule haben wir schon 3 ICs, um die Akkus zu laden und 3,3 und 5V Ausgan
 ## Systembeschreibung:
 Unsere Schaltung lässt sich in zwei Teile ein Teilen, der Teil, der die Batterie überwacht und ladet und der Teil, der die Batterie Spannung auf konstante 3,3V und 5V regelt.
 ## Schaltplan:
-Unsere Schaltung wird mit mini-USB versorgt. Damit wird der Lade IC ( Schwarz - BQ21040) versorgt, der die Batterie ladet. Die Batterie versorgt dann den Schutz-IC ( Gelb - FS312F-G) und die ICs für eine konstante Ausgangs Spannung( Türkis - LDK220 für 3,3V und MAX683 für 5V - Violett). Nach unserer IC-Auswahl wird bei einer Akkuspannnung von ca. 2,8V abgeschaltet und die Batterie wird nicht mehr entladen.
+Unsere Schaltung wird mit mini-USB versorgt. Damit wird der Lade IC (BQ21040) versorgt, der die Batterie ladet. Die Batterie versorgt dann den Schutz-IC (FS312F-G) und die ICs für eine konstante Ausgangs Spannung(LDK220 für 3,3V und MAX683 für 5V). Nach unserer IC-Auswahl wird bei einer Akkuspannnung von ca. 2,8V abgeschaltet und die Batterie wird nicht mehr entladen.
 
-![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.006.png)![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.007.png)![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.008.png)![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.009.png)![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.010.png)![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.011.png)![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.012.png)![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.013.png)
+![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.013.png)
 
 *Abbildung 3: Schaltplan mit IC in Farbe eingerahmt*
 
