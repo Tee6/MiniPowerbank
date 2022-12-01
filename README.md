@@ -1,4 +1,4 @@
-##HWE-Übungen Otto Cibulka, Niko Leimegger4CHEL 2022/23
+HWE-Übungen Otto Cibulka, Niko Leimegger4CHEL 2022/23
 
 ![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.001.png)
 
