@@ -1,5 +1,7 @@
 ﻿HWE-ÜbungenOtto Cibulka, Niko Leimegger4CHEL 2022/23
 
+![](Aspose.Words.7bfafa68-95be-4650-a2fa-78456f5eb427.001.png)
+
 Mini-Powerbank    k           Otto Cibulka/5, Niko Leimegger/11
 
 # Inhalt
